@@ -1,0 +1,732 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="[DE-Lokal] 13th Street HD" tvg-logo="http://151.80.38.45/picons-lokal/delokal13thstreethd.png" group-title="Sky-Film",[DE-Lokal] 13th Street HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246088
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="[DE-Lokal] Animal Planet HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalanimalplanethd.png" group-title="News-Doku",[DE-Lokal] Animal Planet HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246221
+#EXTINF:-1 tvg-id="beateuhsetv.de" tvg-name="[DE-Lokal] Beate Uhse HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalbeateuhsehd.png" group-title="Sky-Film",[DE-Lokal] Beate Uhse HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246089
+#EXTINF:-1 tvg-id="Canal+First.at" tvg-name="[DE-Lokal] Canal+ First  HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalcanalplusfirsthd.png" group-title="Free TV",[DE-Lokal] Canal+ First  HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246164
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="[DE-Lokal] Crime + Investigation" tvg-logo="http://151.80.38.45/picons-lokal/delokalcrimeplusinvestigation.png" group-title="Sky-Film",[DE-Lokal] Crime + Investigation
+http://digihoster224.access.ly:8080/1039043920/5208406447/246093
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="[DE-Lokal] Crime + Investigation HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalcrimeplusinvestigation.png" group-title="Sky-Film",[DE-Lokal] Crime + Investigation HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246201
+#EXTINF:-1 tvg-id="curiositychannel.de" tvg-name="[DE-Lokal] Curiosity Channel powered by Spiegel" tvg-logo="http://151.80.38.45/picons-lokal/delokalcuriositychannelpoweredbyspiegel.png" group-title="News-Doku",[DE-Lokal] Curiosity Channel powered by Spiegel
+http://digihoster224.access.ly:8080/1039043920/5208406447/246094
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="[DE-Lokal] DAZN 1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaldazn1hd.png" group-title="DAZN",[DE-Lokal] DAZN 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246095
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="[DE-Lokal] DAZN 2 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaldazn2hd.png" group-title="DAZN",[DE-Lokal] DAZN 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246096
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="[DE-Lokal] Discovery HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaldiscoveryhd.png" group-title="News-Doku",[DE-Lokal] Discovery HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246097
+#EXTINF:-1 tvg-id="history.de" tvg-name="[DE-Lokal] HISTORY Channel HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalhistorychannelhd.png" group-title="News-Doku",[DE-Lokal] HISTORY Channel HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246099
+#EXTINF:-1 tvg-id="romance.de" tvg-name="[DE-Lokal] Romance TV HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalromancetvhd.png" group-title="Sky-Film",[DE-Lokal] Romance TV HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246211
+#EXTINF:-1 tvg-id="silverline.de" tvg-name="[DE-Lokal] Silverline Movie" tvg-logo="http://151.80.38.45/picons-lokal/delokalsilverlinemovie.png" group-title="Sky-Film",[DE-Lokal] Silverline Movie
+http://digihoster224.access.ly:8080/1039043920/5208406447/246232
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="[DE-Lokal] Sky Atlantic HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskyatlantichd.png" group-title="Sky-Film",[DE-Lokal] Sky Atlantic HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246104
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="[DE-Lokal] Sky Cinema Action HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemaactionhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Action HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246106
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="[DE-Lokal] Sky Cinema Best Of HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemabestofhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Best Of HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246108
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="[DE-Lokal] Sky Cinema Classics HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemaclassicshd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Classics HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246109
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="[DE-Lokal] Sky Cinema Family HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemafamilyhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Family HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246111
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="[DE-Lokal] Sky Cinema Fun HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemafunhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Fun HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246112
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="[DE-Lokal] Sky Cinema Premieren +24 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemapremierenplus24hd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Premieren +24 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246115
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="[DE-Lokal] Sky Cinema Premieren HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemapremierenhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Premieren HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246116
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="[DE-Lokal] Sky Cinema Special HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemaspecialhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Special HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246117
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="[DE-Lokal] Sky Cinema Thriller HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycinemathrillerhd.png" group-title="Sky-Film",[DE-Lokal] Sky Cinema Thriller HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246118
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="[DE-Lokal] Sky Comedy HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycomedyhd.png" group-title="Sky-Film",[DE-Lokal] Sky Comedy HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246119
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="[DE-Lokal] Sky Crime HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskycrimehd.png" group-title="Sky-Film",[DE-Lokal] Sky Crime HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246120
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="[DE-Lokal] Sky Documentaries HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskydocumentarieshdneu.png" group-title="News-Doku",[DE-Lokal] Sky Documentaries HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246122
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="[DE-Lokal] Sky Krimi HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskykrimihd.png" group-title="Sky-Film",[DE-Lokal] Sky Krimi HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246123
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="[DE-Lokal] Sky Nature HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskynaturehdneu.png" group-title="News-Doku",[DE-Lokal] Sky Nature HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246125
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="[DE-Lokal] Sky One HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskyonehd.png" group-title="Sky-Film",[DE-Lokal] Sky One HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246126
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="[DE-Lokal] Sky Replay HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskyreplayhd.png" group-title="Sky-Film",[DE-Lokal] Sky Replay HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246127
+#EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="[DE-Lokal] Sky Showcase HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskyshowcasehd.png" group-title="Sky-Film",[DE-Lokal] Sky Showcase HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246128
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="[DE-Lokal] Sky Sport 1" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysport1hd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport 1
+http://digihoster224.access.ly:8080/1039043920/5208406447/248817
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="[DE-lokal] Sky Sport 1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysport1hd.png" group-title="Sky-Sport",[DE-lokal] Sky Sport 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246249
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="[DE-Lokal] Sky Sport 7 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysport7hd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport 7 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/248806
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="[DE-Lokal] Sky Sport Austria 1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportaustriahd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Austria 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246129
+#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="[DE-Lokal] Sky Sport Austria 2 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportaustriahd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Austria 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/248815
+#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="[DE-Lokal] Sky Sport Austria 3 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportaustriahd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Austria 3 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/248816
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga1hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246179
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 2 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga2hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246180
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 3 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga3hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 3 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246181
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 4 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga4hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 4 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246182
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 5 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga5hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 5 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/248812
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga 6 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesliga6hd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga 6 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/248814
+#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="[DE-Lokal] Sky Sport Bundesliga HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportbundesligahd.png" group-title="Sky-Bundesliga",[DE-Lokal] Sky Sport Bundesliga HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246131
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="[DE-Lokal] Sky Sport F1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportf1hd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport F1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246132
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="[DE-Lokal] Sky Sport Golf HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportgolfhd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Golf HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246133
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="[DE-Lokal] Sky Sport Mix HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportmixhd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Mix HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246134
+#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="[DE-Lokal] Sky Sport News HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportnewshd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport News HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246135
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="[DE-Lokal] Sky Sport Premier League HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysportpremierleaguehd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Premier League HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246136
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="[DE-Lokal] Sky Sport Tennis HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysporttennishd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Tennis HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246138
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="[DE-Lokal] Sky Sport Top Event HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalskysporttopeventhd.png" group-title="Sky-Sport",[DE-Lokal] Sky Sport Top Event HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246140
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="[DE-Lokal] Spiegel Geschichte HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalspiegelgeschichtehd.png" group-title="News-Doku",[DE-Lokal] Spiegel Geschichte HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246142
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="[DE-Lokal] SYFY HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsyfyhd.png" group-title="Sky-Film",[DE-Lokal] SYFY HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246143
+#EXTINF:-1 tvg-id="universal.de" tvg-name="[DE-Lokal] Universal TV HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaluniversaltvhd.png" group-title="Sky-Film",[DE-Lokal] Universal TV HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246144
+#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="[DE-Lokal] WAIDWERK" tvg-logo="http://151.80.38.45/picons-lokal/delokalwaidwerk.png" group-title="News-Doku",[DE-Lokal] WAIDWERK
+http://digihoster224.access.ly:8080/1039043920/5208406447/246083
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="[DE-Lokal] Warner TV Comedy HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalwarnertvcomedyhd.png" group-title="Sky-Film",[DE-Lokal] Warner TV Comedy HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246146
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="[DE-Lokal] Warner TV Film HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalwarnertvfilmhd.png" group-title="Sky-Film",[DE-Lokal] Warner TV Film HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246147
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="[DE-Lokal] Warner TV Serie HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalwarnertvseriehd.png" group-title="Sky-Film",[DE-Lokal] Warner TV Serie HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/246148
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="[DE-Lokal] Welt der Wunder" tvg-logo="http://151.80.38.45/picons-lokal/delokalweltderwunder.png" group-title="News-Doku",[DE-Lokal] Welt der Wunder
+http://digihoster224.access.ly:8080/1039043920/5208406447/246233
+#EXTINF:-1 tvg-id="" tvg-name="==== FILME / SERIEN =====" tvg-logo="" group-title="Sky-Film",==== FILME / SERIEN =====
+http://digihoster224.access.ly:8080/1039043920/5208406447/912
+#EXTINF:-1 tvg-id="" tvg-name="==== SKY SPORT =====" tvg-logo="" group-title="Sky-Sport",==== SKY SPORT =====
+http://digihoster224.access.ly:8080/1039043920/5208406447/986
+#EXTINF:-1 tvg-id="" tvg-name="====== SKY BUNDESLIGA =======" tvg-logo="" group-title="Sky-Bundesliga",====== SKY BUNDESLIGA =======
+http://digihoster224.access.ly:8080/1039043920/5208406447/1041
+#EXTINF:-1 tvg-id="" tvg-name="====== SKY Sport Austria =======" tvg-logo="" group-title="Sky-Sport",====== SKY Sport Austria =======
+http://digihoster224.access.ly:8080/1039043920/5208406447/204587
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 1 HD" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203612
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 1 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 1 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203631
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 2 HD" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203613
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 2 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 2 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203632
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 3 HD" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 3 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203614
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 3 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 3 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203633
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 4 HD" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 4 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203615
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Basketball (BBL) 4 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekombasketball.png" group-title="Telekom Magenta Sport",DE: Telekom Basketball (BBL) 4 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203634
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 1 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203616
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 1 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 1 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203635
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 2 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203617
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 2 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 2 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203636
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 3 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 3 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203618
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 3 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 3 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203637
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 4 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 4 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203619
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 4 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 4 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203638
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 5 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 5 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203620
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 5 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 5 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203639
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 6 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 6 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203621
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 6 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 6 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203640
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 7 HD" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 7 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203622
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Eishockey (DEL) 7 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomeishockey.png" group-title="Telekom Magenta Sport",DE: Telekom Eishockey (DEL) 7 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203641
+#EXTINF:-1 tvg-id="Sport 1 - myTeamTV" tvg-name="DE: Telekom Fußball (3. Liga) 1 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 1 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203602
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 1 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 1 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203623
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 10 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 10 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203610
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 10 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 10 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203643
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 11 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 11 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203611
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 11 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 11 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203644
+#EXTINF:-1 tvg-id="Sport 2 - myTeamTV" tvg-name="DE: Telekom Fußball (3. Liga) 2 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 2 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203603
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 2 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 2 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203624
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 3 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 3 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/206508
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 3 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 3 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203625
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 4 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 4 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203604
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 4 HD (ONLY ON MATCHDAY)" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 4 HD (ONLY ON MATCHDAY)
+http://digihoster224.access.ly:8080/1039043920/5208406447/203626
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 5 HD" tvg-logo="http://151.80.38.45/picons/telekomfussball.png" group-title="Telekom Magenta Sport",DE: Telekom Fußball (3. Liga) 5 HD
+http://digihoster224.access.ly:8080/1039043920/5208406447/203605
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball (3. Liga) 5 HD (ONLY ON MATCHDAY)" tvg-logo="
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="England",UK: SKY SPORTS PREMIER LEAGUE HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256494
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="England",UK: SKY SPORTS PREMIER LEAGUE FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256495
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS FHD" tvg-logo="" group-title="England",UK: SKY SPORTS NEWS FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256496
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="" group-title="England",UK: Sky Sports News
+http://digihoster224.access.ly:8080/1603422166/7256802073/256497
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX FHD" tvg-logo="" group-title="England",UK: SKY SPORTS MIX FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256498
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="England",UK: Sky Sports Mix
+http://digihoster224.access.ly:8080/1603422166/7256802073/256499
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="" group-title="England",UK: SKY SPORTS MAIN EVENT HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256500
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="England",UK: SKY SPORTS MAIN EVENT FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256501
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="England",UK: SKY SPORTS GOLF FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256502
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf" tvg-logo="" group-title="England",UK: Sky Sports Golf
+http://digihoster224.access.ly:8080/1603422166/7256802073/256503
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="England",UK: SKY SPORTS FOOTBALL HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256504
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL FHD" tvg-logo="" group-title="England",UK: SKY SPORTS FOOTBALL FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256505
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="England",UK: SKY SPORTS F1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256506
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1" tvg-logo="" group-title="England",UK: SKY SPORTS F1
+http://digihoster224.access.ly:8080/1603422166/7256802073/256507
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="" group-title="England",UK: SKY SPORTS CRICKET FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256508
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="" group-title="England",UK: SKY SPORTS CRICKET
+http://digihoster224.access.ly:8080/1603422166/7256802073/256509
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="" group-title="England",UK: SKY SPORTS ARENA HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256510
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA FHD" tvg-logo="" group-title="England",UK: SKY SPORTS ARENA FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256511
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="" group-title="England",UK: SKY SPORTS ACTION HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256512
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION FHD" tvg-logo="" group-title="England",UK: SKY SPORTS ACTION FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256513
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Two" tvg-logo="" group-title="England",UK: SIS Two
+http://digihoster224.access.ly:8080/1603422166/7256802073/256514
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS Racing" tvg-logo="" group-title="England",UK: SIS Racing
+http://digihoster224.access.ly:8080/1603422166/7256802073/256515
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS One" tvg-logo="" group-title="England",UK: SIS One
+http://digihoster224.access.ly:8080/1603422166/7256802073/256516
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2 HD" tvg-logo="" group-title="England",UK: Premier Sports 2 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256517
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2 FHD" tvg-logo="" group-title="England",UK: PREMIER SPORTS 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256518
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1 FHD" tvg-logo="" group-title="England",UK: PREMIER SPORTS 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256519
+#EXTINF:-1 tvg-id="" tvg-name="UK: FREE SPORTS FHD" tvg-logo="" group-title="England",UK: FREE SPORTS FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256520
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORTS 2 FHD" tvg-logo="" group-title="England",UK: EUROSPORTS 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256521
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORTS 1 FHD" tvg-logo="" group-title="England",UK: EUROSPORTS 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256522
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 10" tvg-logo="" group-title="England",UK: BT SPORT 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/256579
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 9" tvg-logo="" group-title="England",UK: BT SPORT 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/256580
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 8" tvg-logo="" group-title="England",UK: BT SPORT 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/256581
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 7" tvg-logo="" group-title="England",UK: BT SPORT 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/256582
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 6" tvg-logo="" group-title="England",UK: BT SPORT 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/256583
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 5" tvg-logo="" group-title="England",UK: BT SPORT 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/256584
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 4 HD" tvg-logo="" group-title="England",UK: BT SPORT 4 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256585
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 4 FHD" tvg-logo="" group-title="England",UK: BT SPORT 4 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256586
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3 HD" tvg-logo="" group-title="England",UK: BT SPORT 3 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256587
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 FHD" tvg-logo="" group-title="England",UK: BT Sport 3 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256588
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="" group-title="England",UK: BT SPORT 2 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256589
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 FHD" tvg-logo="" group-title="England",UK: BT Sport 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256590
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="" group-title="England",UK: BT SPORT 1 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256591
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 FHD" tvg-logo="" group-title="England",UK: BT Sport 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256592
+#EXTINF:-1 tvg-id="" tvg-name="PPV5ES" tvg-logo="" group-title="Spanien",PPV5ES
+http://digihoster224.access.ly:8080/1603422166/7256802073/255253
+#EXTINF:-1 tvg-id="" tvg-name="PPV4ES" tvg-logo="" group-title="Spanien",PPV4ES
+http://digihoster224.access.ly:8080/1603422166/7256802073/255254
+#EXTINF:-1 tvg-id="" tvg-name="PPV3ES" tvg-logo="" group-title="Spanien",PPV3ES
+http://digihoster224.access.ly:8080/1603422166/7256802073/255255
+#EXTINF:-1 tvg-id="" tvg-name="PPV2-ES" tvg-logo="" group-title="Spanien",PPV2-ES
+http://digihoster224.access.ly:8080/1603422166/7256802073/255256
+#EXTINF:-1 tvg-id="" tvg-name="PPV1-ES" tvg-logo="" group-title="Spanien",PPV1-ES
+http://digihoster224.access.ly:8080/1603422166/7256802073/255257
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS en Español" tvg-logo="" group-title="Spanien",beIN SPORTS en Español
+http://digihoster224.access.ly:8080/1603422166/7256802073/255258
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS CONNECT 3" tvg-logo="" group-title="Spanien",beIN SPORTS CONNECT 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255259
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Spanien",Eurosport 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255267
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Spanien",Eurosport 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255268
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="Spanien",DAZN 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/255269
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="Spanien",DAZN 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255270
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="Spanien",DAZN 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255271
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Spanien",DAZN 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255272
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Fórmula 1" tvg-logo="" group-title="Spanien",Movistar Fórmula 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255273
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="" group-title="Spanien",Movistar Golf
+http://digihoster224.access.ly:8080/1603422166/7256802073/255274
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 7" tvg-logo="" group-title="Spanien",Movistar Deportes 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/255275
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 5" tvg-logo="" group-title="Spanien",Movistar Deportes 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/255276
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 4" tvg-logo="" group-title="Spanien",Movistar Deportes 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/255277
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 3" tvg-logo="" group-title="Spanien",Movistar Deportes 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255278
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2" tvg-logo="" group-title="Spanien",Movistar Deportes 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255279
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="" group-title="Spanien",Movistar Deportes
+http://digihoster224.access.ly:8080/1603422166/7256802073/255280
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 16" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 16
+http://digihoster224.access.ly:8080/1603422166/7256802073/255281
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 15" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 15
+http://digihoster224.access.ly:8080/1603422166/7256802073/255282
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 14" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 14
+http://digihoster224.access.ly:8080/1603422166/7256802073/255283
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 13" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/255284
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 12" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 12
+http://digihoster224.access.ly:8080/1603422166/7256802073/255285
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 11" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/255286
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 10" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/255287
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 9" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/255288
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 8" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/255289
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 7" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/255290
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 6" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/255291
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 5" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/255292
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 4" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/255293
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 3" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255294
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones 2" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255295
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="Spanien",Movistar Liga de Campeones
+http://digihoster224.access.ly:8080/1603422166/7256802073/255296
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 3" tvg-logo="" group-title="Spanien",Movistar LaLiga 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255297
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="Spanien",Movistar LaLiga 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255298
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LaLiga" tvg-logo="" group-title="Spanien",Movistar LaLiga
+http://digihoster224.access.ly:8080/1603422166/7256802073/255299
+#EXTINF:-1 tvg-id="" tvg-name="#Vamos" tvg-logo="" group-title="Spanien",#Vamos
+http://digihoster224.access.ly:8080/1603422166/7256802073/255300
+#EXTINF:-1 tvg-id="" tvg-name="Laliga SmartBankTV-M3" tvg-logo="" group-title="Spanien",Laliga SmartBankTV-M3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255301
+#EXTINF:-1 tvg-id="" tvg-name="Laliga SmartBankTV-M2" tvg-logo="" group-title="Spanien",Laliga SmartBankTV-M2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255302
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV+" tvg-logo="" group-title="Spanien",Barca TV+
+http://digihoster224.access.ly:8080/1603422166/7256802073/255303
+#EXTINF:-1 tvg-id="" tvg-name="Laliga SmartBankTV-M1" tvg-logo="" group-title="Spanien",Laliga SmartBankTV-M1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255304
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Laliga 1" tvg-logo="" group-title="Spanien",DAZN Laliga 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255305
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Laliga 2" tvg-logo="" group-title="Spanien",Dazn Laliga 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255306
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Netherlands",CNN
+http://digihoster224.access.ly:8080/1603422166/7256802073/255865
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="Netherlands",ESPN 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/255866
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="Netherlands",ESPN 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255867
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="Netherlands",ESPN 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255868
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Netherlands",ESPN
+http://digihoster224.access.ly:8080/1603422166/7256802073/255869
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="Netherlands",Eurosport 2 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255870
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Tennis HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Tennis HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255871
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Docu HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Docu HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255872
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Racing HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255873
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Golf HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255874
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Voetbal HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255875
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Select HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/255876
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 10" tvg-logo="" group-title="Netherlands",Pickx+ Sports 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/255988
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 9" tvg-logo="" group-title="Netherlands",Pickx+ Sports 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/255989
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 8" tvg-logo="" group-title="Netherlands",Pickx+ Sports 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/255990
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 7" tvg-logo="" group-title="Netherlands",Pickx+ Sports 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/255991
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 6" tvg-logo="" group-title="Netherlands",Pickx+ Sports 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/255992
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 5" tvg-logo="" group-title="Netherlands",Pickx+ Sports 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/255993
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 4" tvg-logo="" group-title="Netherlands",Pickx+ Sports 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/255994
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 3" tvg-logo="" group-title="Netherlands",Pickx+ Sports 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255995
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 2" tvg-logo="" group-title="Netherlands",Pickx+ Sports 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255996
+#EXTINF:-1 tvg-id="" tvg-name="Pickx+ Sports 1" tvg-logo="" group-title="Netherlands",Pickx+ Sports 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/255997
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 3" tvg-logo="" group-title="Netherlands",Eleven Pro League 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/255998
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 2" tvg-logo="" group-title="Netherlands",Eleven Pro League 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/255999
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 1" tvg-logo="" group-title="Netherlands",Eleven Pro League 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/256000
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 3 HD" tvg-logo="" group-title="Netherlands",Eleven Pro League 3 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256001
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 2 HD" tvg-logo="" group-title="Netherlands",Eleven Pro League 2 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256002
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Pro League 1 HD" tvg-logo="" group-title="Netherlands",Eleven Pro League 1 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256003
+#EXTINF:-1 tvg-id="" tvg-name="&gt;&gt;&gt;&gt;|||| Netherland & Belgia ||||&lt;&lt;&lt;" tvg-logo="" group-title="Netherlands",&gt;&gt;&gt;&gt;|||| Netherland & Belgia ||||&lt;&lt;&lt;
+http://digihoster224.access.ly:8080/1603422166/7256802073/256004
+#EXTINF:-1 tvg-id="" tvg-name="iConcert" tvg-logo="" group-title="Netherlands",iConcert
+http://digihoster224.access.ly:8080/1603422166/7256802073/256005
+#EXTINF:-1 tvg-id="" tvg-name="een HD" tvg-logo="" group-title="Netherlands",een HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256006
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal" tvg-logo="" group-title="Netherlands",Ziggo Sport Voetbal
+http://digihoster224.access.ly:8080/1603422166/7256802073/256007
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select HD" tvg-logo="" group-title="Netherlands",Ziggo Sport Select HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/256008
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="" group-title="Netherlands",Ziggo Sport Golf
+http://digihoster224.access.ly:8080/1603422166/7256802073/256009
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT 1 FHD" tvg-logo="" group-title="France",[FR] RMC SPORT 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248727
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT 2 FHD" tvg-logo="" group-title="France",[FR] RMC SPORT 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248728
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT 3 FHD" tvg-logo="" group-title="France",[FR] RMC SPORT 3 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248729
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT 4 FHD" tvg-logo="" group-title="France",[FR] RMC SPORT 4 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248730
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Bein Sports 1 FHD" tvg-logo="" group-title="France",[FR] Bein Sports 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248731
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Bein Sports 2 FHD" tvg-logo="" group-title="France",[FR] Bein Sports 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248732
+#EXTINF:-1 tvg-id="" tvg-name="[FR] Bein Sports 3 FHD" tvg-logo="" group-title="France",[FR] Bein Sports 3 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248733
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 5 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 5 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248734
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 6 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 6 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248735
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 7 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 7 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248736
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 8 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 8 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248737
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 9 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 9 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248738
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 10 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 10 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248739
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 11 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 11 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248740
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 12 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 12 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248741
+#EXTINF:-1 tvg-id="" tvg-name="[FR] RMC SPORT LIVE 13 HD" tvg-logo="" group-title="France",[FR] RMC SPORT LIVE 13 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248742
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| ACCN ESPN" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| ACCN ESPN
+http://digihoster224.access.ly:8080/1603422166/7256802073/248920
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| ESPN Network" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| ESPN Network
+http://digihoster224.access.ly:8080/1603422166/7256802073/248921
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| LONGHRON Network" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| LONGHRON Network
+http://digihoster224.access.ly:8080/1603422166/7256802073/248943
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| ESPN U" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| ESPN U
+http://digihoster224.access.ly:8080/1603422166/7256802073/248922
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 1" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/248923
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 2" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/248934
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 3" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/248936
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 4" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/248937
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 5" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/248938
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 6" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/248939
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 7" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/248940
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 8" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/248941
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 9" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/248942
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 10" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/248924
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 11" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/248925
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 12" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 12
+http://digihoster224.access.ly:8080/1603422166/7256802073/248926
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 13" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/248927
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 14" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 14
+http://digihoster224.access.ly:8080/1603422166/7256802073/248928
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 15" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 15
+http://digihoster224.access.ly:8080/1603422166/7256802073/248929
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 16" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 16
+http://digihoster224.access.ly:8080/1603422166/7256802073/248930
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 17" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 17
+http://digihoster224.access.ly:8080/1603422166/7256802073/248931
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 18" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 18
+http://digihoster224.access.ly:8080/1603422166/7256802073/248932
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 19" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 19
+http://digihoster224.access.ly:8080/1603422166/7256802073/248933
+#EXTINF:-1 tvg-id="" tvg-name="ESPN| Event 20" tvg-logo="https://i.postimg.cc/Gty6jWYt/u-https-tse1-mm-bing-net-th-id-OIP.jpg" group-title="ESPN Event",ESPN| Event 20
+http://digihoster224.access.ly:8080/1603422166/7256802073/248935
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 01" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 01
+http://digihoster224.access.ly:8080/1603422166/7256802073/248944
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 02" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 02
+http://digihoster224.access.ly:8080/1603422166/7256802073/248945
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 03" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 03
+http://digihoster224.access.ly:8080/1603422166/7256802073/248946
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 04" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 04
+http://digihoster224.access.ly:8080/1603422166/7256802073/248947
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 05" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 05
+http://digihoster224.access.ly:8080/1603422166/7256802073/248948
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 06" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 06
+http://digihoster224.access.ly:8080/1603422166/7256802073/248949
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 07" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 07
+http://digihoster224.access.ly:8080/1603422166/7256802073/248950
+#EXTINF:-1 tvg-id="" tvg-name="MATCHROOM EVENTS 08" tvg-logo="http://151.80.38.45/picons-lokal/matchroom.png" group-title="Matchroom Events",MATCHROOM EVENTS 08
+http://digihoster224.access.ly:8080/1603422166/7256802073/248951
+#EXTINF:-1 tvg-id="" tvg-name="MLB 01" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 01
+http://digihoster224.access.ly:8080/1603422166/7256802073/248953
+#EXTINF:-1 tvg-id="" tvg-name="MLB 02" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 02
+http://digihoster224.access.ly:8080/1603422166/7256802073/248954
+#EXTINF:-1 tvg-id="" tvg-name="MLB 03" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 03
+http://digihoster224.access.ly:8080/1603422166/7256802073/248955
+#EXTINF:-1 tvg-id="" tvg-name="MLB 04" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 04
+http://digihoster224.access.ly:8080/1603422166/7256802073/248956
+#EXTINF:-1 tvg-id="" tvg-name="MLB 06" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 06
+http://digihoster224.access.ly:8080/1603422166/7256802073/248957
+#EXTINF:-1 tvg-id="" tvg-name="MLB 07" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 07
+http://digihoster224.access.ly:8080/1603422166/7256802073/248958
+#EXTINF:-1 tvg-id="" tvg-name="MLB 08" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 08
+http://digihoster224.access.ly:8080/1603422166/7256802073/248959
+#EXTINF:-1 tvg-id="" tvg-name="MLB 09" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 09
+http://digihoster224.access.ly:8080/1603422166/7256802073/248960
+#EXTINF:-1 tvg-id="" tvg-name="MLB 10" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/248961
+#EXTINF:-1 tvg-id="" tvg-name="MLB 11" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/248962
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 12
+http://digihoster224.access.ly:8080/1603422166/7256802073/248963
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/248964
+#EXTINF:-1 tvg-id="" tvg-name="MLB 14" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 14
+http://digihoster224.access.ly:8080/1603422166/7256802073/248965
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 15
+http://digihoster224.access.ly:8080/1603422166/7256802073/248966
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 16
+http://digihoster224.access.ly:8080/1603422166/7256802073/248967
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB 17
+http://digihoster224.access.ly:8080/1603422166/7256802073/248968
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB Network
+http://digihoster224.access.ly:8080/1603422166/7256802073/248969
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network Alternate" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB Network Alternate
+http://digihoster224.access.ly:8080/1603422166/7256802073/248970
+#EXTINF:-1 tvg-id="" tvg-name="MLB StrikeZone" tvg-logo="https://i.postimg.cc/9F5XhzRv/gratis-png-mlb-new-york-yankees-pga-tour-chicago-cubs-beisbol-mlb-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",MLB StrikeZone
+http://digihoster224.access.ly:8080/1603422166/7256802073/248971
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 01
+http://digihoster224.access.ly:8080/1603422166/7256802073/248972
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 02
+http://digihoster224.access.ly:8080/1603422166/7256802073/248973
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 03
+http://digihoster224.access.ly:8080/1603422166/7256802073/248974
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 04
+http://digihoster224.access.ly:8080/1603422166/7256802073/248975
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05 " tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 05 
+http://digihoster224.access.ly:8080/1603422166/7256802073/248976
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 " tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 06 
+http://digihoster224.access.ly:8080/1603422166/7256802073/248977
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 07
+http://digihoster224.access.ly:8080/1603422166/7256802073/248978
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 08
+http://digihoster224.access.ly:8080/1603422166/7256802073/248979
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 09
+http://digihoster224.access.ly:8080/1603422166/7256802073/248980
+#EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/248981
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/248982
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 12
+http://digihoster224.access.ly:8080/1603422166/7256802073/248983
+#EXTINF:-1 tvg-id="" tvg-name="NBA 13" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/248984
+#EXTINF:-1 tvg-id="" tvg-name="NBA 14" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA 14
+http://digihoster224.access.ly:8080/1603422166/7256802073/248985
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA TV HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248986
+#EXTINF:-1 tvg-id="" tvg-name="NBA US" tvg-logo="https://i.postimg.cc/XqYqkxsY/clique-nova-york-nba-new-york-calend-rio-dos-jogos-7.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NBA US
+http://digihoster224.access.ly:8080/1603422166/7256802073/248987
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 01" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 01
+http://digihoster224.access.ly:8080/1603422166/7256802073/248988
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 02 " tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 02 
+http://digihoster224.access.ly:8080/1603422166/7256802073/248989
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 03" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 03
+http://digihoster224.access.ly:8080/1603422166/7256802073/248990
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 04" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 04
+http://digihoster224.access.ly:8080/1603422166/7256802073/248991
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 05" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 05
+http://digihoster224.access.ly:8080/1603422166/7256802073/248992
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 06" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 06
+http://digihoster224.access.ly:8080/1603422166/7256802073/248993
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 07" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 07
+http://digihoster224.access.ly:8080/1603422166/7256802073/248994
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 08" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 08
+http://digihoster224.access.ly:8080/1603422166/7256802073/248995
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 09" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 09
+http://digihoster224.access.ly:8080/1603422166/7256802073/248996
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 10" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/248997
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 11" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/248998
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 12" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 12
+http://digihoster224.access.ly:8080/1603422166/7256802073/248999
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 13" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/249000
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 14" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 14
+http://digihoster224.access.ly:8080/1603422166/7256802073/249001
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 15" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 15
+http://digihoster224.access.ly:8080/1603422166/7256802073/249002
+#EXTINF:-1 tvg-id="" tvg-name="NFL  | 16" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL  | 16
+http://digihoster224.access.ly:8080/1603422166/7256802073/249003
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 1" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 1
+http://digihoster224.access.ly:8080/1603422166/7256802073/249004
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 2" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 2
+http://digihoster224.access.ly:8080/1603422166/7256802073/249006
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 3" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 3
+http://digihoster224.access.ly:8080/1603422166/7256802073/249007
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 4" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 4
+http://digihoster224.access.ly:8080/1603422166/7256802073/249008
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 5" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/249009
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 6" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/249010
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 7" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/249011
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 8" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/249012
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 9" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/249013
+#EXTINF:-1 tvg-id="" tvg-name="NFL Event 10" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Event 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/249005
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network Alternate US" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Network Alternate US
+http://digihoster224.access.ly:8080/1603422166/7256802073/249014
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network US" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Network US
+http://digihoster224.access.ly:8080/1603422166/7256802073/249015
+#EXTINF:-1 tvg-id="" tvg-name="NFL Redzone US" tvg-logo="https://i.postimg.cc/pLS1w5yj/gratis-png-logo-marca-nfl-logo-nfl-thumbnail.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NFL Redzone US
+http://digihoster224.access.ly:8080/1603422166/7256802073/249016
+#EXTINF:-1 tvg-id="" tvg-name="NHL 01" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 01
+http://digihoster224.access.ly:8080/1603422166/7256802073/249017
+#EXTINF:-1 tvg-id="" tvg-name="NHL 02" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 02
+http://digihoster224.access.ly:8080/1603422166/7256802073/249018
+#EXTINF:-1 tvg-id="" tvg-name="NHL 03" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 03
+http://digihoster224.access.ly:8080/1603422166/7256802073/249019
+#EXTINF:-1 tvg-id="" tvg-name="NHL 04" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 04
+http://digihoster224.access.ly:8080/1603422166/7256802073/249020
+#EXTINF:-1 tvg-id="" tvg-name="NHL 05" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 05
+http://digihoster224.access.ly:8080/1603422166/7256802073/249021
+#EXTINF:-1 tvg-id="" tvg-name="NHL 06" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 06
+http://digihoster224.access.ly:8080/1603422166/7256802073/249022
+#EXTINF:-1 tvg-id="" tvg-name="NHL 07" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 07
+http://digihoster224.access.ly:8080/1603422166/7256802073/249036
+#EXTINF:-1 tvg-id="" tvg-name="NHL 08" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 08
+http://digihoster224.access.ly:8080/1603422166/7256802073/249023
+#EXTINF:-1 tvg-id="" tvg-name="NHL 09" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 09
+http://digihoster224.access.ly:8080/1603422166/7256802073/249024
+#EXTINF:-1 tvg-id="" tvg-name="NHL 10" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 10
+http://digihoster224.access.ly:8080/1603422166/7256802073/249035
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 11
+http://digihoster224.access.ly:8080/1603422166/7256802073/249025
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 13
+http://digihoster224.access.ly:8080/1603422166/7256802073/249026
+#EXTINF:-1 tvg-id="" tvg-name="NHL 14 " tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 14 
+http://digihoster224.access.ly:8080/1603422166/7256802073/249027
+#EXTINF:-1 tvg-id="" tvg-name="NHL 15" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 15
+http://digihoster224.access.ly:8080/1603422166/7256802073/249028
+#EXTINF:-1 tvg-id="" tvg-name="NHL 16" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 16
+http://digihoster224.access.ly:8080/1603422166/7256802073/249032
+#EXTINF:-1 tvg-id="" tvg-name="NHL 17" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 17
+http://digihoster224.access.ly:8080/1603422166/7256802073/249033
+#EXTINF:-1 tvg-id="" tvg-name="NHL 18" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL 18
+http://digihoster224.access.ly:8080/1603422166/7256802073/249029
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network Alternate" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL Network Alternate
+http://digihoster224.access.ly:8080/1603422166/7256802073/249030
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" tvg-logo="https://i.postimg.cc/9FNVvcQb/image-logo-nhl-1.png" group-title="UFC   WWE   NHL   NFL   NBA   MLB",NHL Network HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249031
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN FHD" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT Sport ESPN FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249061
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 FHD" tvg-logo="http://static.epgguide.net/icon/btsport1.uk.png" group-title="BT Sport",BT Sport 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249057
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT 1 FHD" tvg-logo="http://static.epgguide.net/icon/btsport1.uk.png" group-title="BT Sport",BT SPORT 1 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249058
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 FHD" tvg-logo="http://static.epgguide.net/icon/btsport2.uk.png" group-title="BT Sport",BT Sport 2 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249059
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 FHD" tvg-logo="http://static.epgguide.net/icon/btsport3.uk.png" group-title="BT Sport",BT Sport 3 FHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/249060
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 5" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/249063
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 6" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 6
+http://digihoster224.access.ly:8080/1603422166/7256802073/249064
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 7" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 7
+http://digihoster224.access.ly:8080/1603422166/7256802073/249065
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 8" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 8
+http://digihoster224.access.ly:8080/1603422166/7256802073/249066
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 9" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 9
+http://digihoster224.access.ly:8080/1603422166/7256802073/249067
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EXTRA 10" tvg-logo="https://i.postimg.cc/DzKwP0Fr/140-1402403-bt-sport-rgb-bt-sport-espn-hd-logo.jpg" group-title="BT Sport",BT SPORT EXTRA 10
+
+
+
